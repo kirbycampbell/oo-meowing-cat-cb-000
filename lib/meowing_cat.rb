@@ -1,8 +1,9 @@
 ## code your solution here.
 class Cat
 
-def method_name
-  attr_accessor = :name
-end
+  attr_accessor :name
 
+  def meow
+    puts "meow!"
+  end
 end
