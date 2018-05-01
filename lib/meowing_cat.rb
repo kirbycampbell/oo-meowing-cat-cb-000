@@ -8,8 +8,3 @@ class Cat
   end
 
 end
-
-something = Cat.new
-something.name = "Bob"
-something.name
-something.meow
